@@ -1,0 +1,50 @@
+﻿body
+{
+}
+
+
+.login_container{
+
+    width:960px;
+    height:250px;
+    margin:0 auto;
+    padding:15px 10px;
+}
+
+.login_half1{
+
+    width:45%;
+    height:100%;
+    float:left;
+}
+
+.login_half2{
+
+    width:45%;
+    height:100%;
+    float:right;
+}
+
+.username{
+
+   float:left;
+   width:200px;
+}
+
+.password{
+
+    float:left;
+    width:200px;
+    
+}
+
+.login_image{
+
+
+}
+
+.car_gif{
+
+    height:100px;
+    width:100px;
+}
